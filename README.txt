@@ -1,5 +1,3 @@
-
-
 In this repository, you will find documents :
 - Report.pdf : the written report of the project;
 - Presentation.pptx : the slides used for the oral presentation in the presence of an IBGE member;
