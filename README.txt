@@ -1,6 +1,6 @@
-This work is part of the management of air quality in Brussels. The Brussels Institute for Environmental Management (IBGE) proposed that we model and spatialize the concentration of nitrogen monoxide and nitrogen dioxide.
+This work is part of the management of air quality in Brussels. The IBGE (Institut bruxellois pour la gestion de l'environnement) proposed that we model and spatialize the concentration of nitrogen monoxide and nitrogen dioxide.
 
-The dynamics of nitrogen oxide concentrations were analyzed on the basis of hourly measurements from a network of measurment stations. It is modeled from black carbon concentrations. The establishment of a characteristic curve of the NO / NO2 ratio then allows to determine the concentrations of these two compounds separately.
+The dynamics of nitrogen oxide concentrations were analyzed on the basis of hourly measurements from a network of measurment stations. It is modeled from black carbon concentrations. The establishment of a characteristic curve of the NO/NO2 ratio then allows to determine the concentrations of these two compounds separately.
 
 The results are finally presented in the form of maps.
 
